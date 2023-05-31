@@ -1,12 +1,9 @@
-## Foo
+# Foo
 
-Demo:
+This is an example component.
 
-```tsx
-import React from 'react';
-import { Foo } from 'component';
+```jsx
+import { Foo } from 'qunxcom';
 
-export default () => <Foo title="First Demo" />;
+export default () => <Foo title="Hello dumi!" />;
 ```
-
-More skills for writing demo: https://d.umijs.org/guide/basic#write-component-demo

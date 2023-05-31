@@ -1,33 +1,40 @@
-# component
+# qunxcom
 
-## Getting Started
+[![NPM version](https://img.shields.io/npm/v/qunxcom.svg?style=flat)](https://npmjs.org/package/qunxcom)
+[![NPM downloads](http://img.shields.io/npm/dm/qunxcom.svg?style=flat)](https://npmjs.org/package/qunxcom)
 
-Install dependencies,
+A react library developed with dumi
+
+## Usage
+
+TODO
+
+## Options
+
+TODO
+
+## Development
 
 ```bash
-$ npm i
-```
+# install dependencies
+$ npm install
 
-Start the dev server,
-
-```bash
+# develop library by docs demo
 $ npm start
-```
 
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Run test,
-
-```bash
-$ npm test
-```
-
-Build library via `father`,
-
-```bash
+# build library source code
 $ npm run build
+
+# build library source code in watch mode
+$ npm run build:watch
+
+# build docs
+$ npm run docs:build
+
+# check your project for potential problems
+$ npm run doctor
 ```
+
+## LICENSE
+
+MIT
